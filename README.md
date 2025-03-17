@@ -6,8 +6,8 @@
 
 Welcome to the **`certification-c-programming-linux-specialization`** repository! This repository contains my study notes, activity solutions, and projects from the **C Programming with Linux Specialization** offered by Dartmouth College and Institut Mines-Télécom on Coursera. The specialization covers the following topics:
 
-1. **C Programming: Getting Started** ✅
-2. **C Programming: Language Foundations**
+1. [**C Programming: Getting Started**](./c1-getting-started/course1.md) ✅
+2. **C Programming: Language Foundations** 📌
 3. **C Programming: Modular Programming and Memory Management**
 4. **C Programming: Pointers and Memory Management**
 5. **C Programming: Advanced Data Types**
@@ -22,8 +22,8 @@ Each course folder contains the following:
 - **`<n>_<description>.c`**: C source files containing solutions to the activities and exercises provided in the course. Each file is named descriptively (e.g., `1_modify_output_hello_world.c`) to correspond with the activity it solves.
 
 ### Example:
-- To view study notes for **Course 1**, open the `notes.md` file in the `course-1-getting-started/` folder.
-- To see the solution for **Activity 1a** in **Course 2**, open the `1a_if_statement_carpooling` file in the `course-2-language-foundations/` folder.
+- To view study notes for **Course 1**, open the `notes.md` file in the `c1-getting-started/` folder.
+- To see the solution for **Activity 1a** in **Course 2**, open the `1a_if_statement_carpooling` file in the `c2-language-foundations/` folder.
 
 
 ## About the Specialization
