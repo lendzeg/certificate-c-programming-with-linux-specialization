@@ -4,10 +4,11 @@
 ![Linux](https://img.shields.io/badge/OS-Linux-orange)
 ![Coursera](https://img.shields.io/badge/Platform-Coursera-success)
 
-Welcome to the **`certification-c-programming-linux-specialization`** repository! This repository contains my study notes, activity solutions, and projects from the **C Programming with Linux Specialization** offered by Dartmouth College and Institut Mines-Télécom on Coursera. The specialization covers the following topics:
+Welcome to the **`certification-c-programming-linux-specialization`** repository!.  
+This repository contains my study notes, activity solutions, and projects from the **C Programming with Linux Specialization** offered by Dartmouth College and Institut Mines-Télécom on Coursera. The specialization covers the following topics:
 
-1. [**C Programming: Getting Started**](./c1-getting-started/README.md) ✅
-2. **C Programming: Language Foundations** 📌
+1. [**C Programming: Getting Started**](./course-1-getting-started/) ✅
+2. [**C Programming: Language Foundations**](./course-2-language-foundations/) 📌
 3. **C Programming: Modular Programming and Memory Management**
 4. **C Programming: Pointers and Memory Management**
 5. **C Programming: Advanced Data Types**
@@ -18,12 +19,8 @@ Welcome to the **`certification-c-programming-linux-specialization`** repository
 ## How to Use This Repository
 
 Each course folder contains the following:
-- **`notes.md`**: A markdown file with my study notes summarizing key concepts, syntax, and examples from the course.
-- **`<n>_<description>.c`**: C source files containing solutions to the activities and exercises provided in the course. Each file is named descriptively (e.g., `1_modify_output_hello_world.c`) to correspond with the activity it solves.
-
-### Example:
-- To view study notes for **Course 1**, open the `notes.md` file in the `c1-getting-started/` folder.
-- To see the solution for **Activity 1a** in **Course 2**, open the `1a_if_statement_carpooling` file in the `c2-language-foundations/` folder.
+- **`README.md`**: A markdown file with my study notes summarizing key concepts, syntax, and examples from each course.
+- **`<n>_<description>.c`**: C source files containing solutions to the activities and exercises provided in the course. Each file is named descriptively (e.g., `1_writing_your_first_program.c`) to correspond with the activity it solves.
 
 
 ## About the Specialization
@@ -42,7 +39,7 @@ If you find any errors or have suggestions for improvement, feel free to open an
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License.
 
 ---
 
