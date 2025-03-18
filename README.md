@@ -6,7 +6,7 @@
 
 Welcome to the **`certification-c-programming-linux-specialization`** repository! This repository contains my study notes, activity solutions, and projects from the **C Programming with Linux Specialization** offered by Dartmouth College and Institut Mines-Télécom on Coursera. The specialization covers the following topics:
 
-1. [**C Programming: Getting Started**](./c1-getting-started/course1.md) ✅
+1. [**C Programming: Getting Started**](./c1-getting-started/README.md) ✅
 2. **C Programming: Language Foundations** 📌
 3. **C Programming: Modular Programming and Memory Management**
 4. **C Programming: Pointers and Memory Management**
