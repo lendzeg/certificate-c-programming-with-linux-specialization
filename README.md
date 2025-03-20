@@ -1,30 +1,47 @@
-# Public Portofolio
+# C Programming with Linux Specialization - Study Notes & Solutions
 
-![GitHub](https://img.shields.io/badge/License-MIT-blue)
-![GitHub](https://img.shields.io/badge/Status-Active-brightgreen)
+![Work in Progress](https://img.shields.io/badge/Status-work%20in%20progress-yellow)
+![C Programming](https://img.shields.io/badge/Language-C-blue)
+![Linux](https://img.shields.io/badge/OS-Linux-orange)
+![Coursera](https://img.shields.io/badge/Platform-Coursera-success)
 
-Welcome to my **Public Portfolio** repository!  
-This repository contains my completed certifications, study notes, and simple projects that I’ve worked on as part of my learning journey. All content is publicly shared to help others learn and for my personal reference.
+Welcome to the **`certification-c-programming-linux-specialization`** repository!.  
+This repository contains my study notes, activity solutions, and projects from the **C Programming with Linux Specialization** offered by Dartmouth College and Institut Mines-Télécom on Coursera. The specialization covers the following topics:
 
-## Certifications
-This folder contains my completed and ongoing certifications and coursework. Below are some of the certifications included:
+1. [**C Programming: Getting Started**](./course-1-getting-started/) ✅
+2. [**C Programming: Language Foundations**](./course-2-language-foundations/) 📌
+3. **C Programming: Modular Programming and Memory Management**
+4. **C Programming: Pointers and Memory Management**
+5. **C Programming: Advanced Data Types**
+6. **Linux Basics: The Command Line Interface**
+7. **C Programming: Using Linux Tools and Libraries**
 
-- **[C Programming with Linux Specialization](./certificate-c-programming-with-linux-specialization/)**: Covers C programming fundamentals and Linux systems.
-- **[Power Electronics Specialization](./certificate-power-electronics-specialization/)**: Design modern switched-mode power converters.
-
-## Projects
-This folder contains simple projects I’ve built to practice and showcase my skills. Below are some of the projects included:
-
-- **[Breadboard Power Supply](./project-breadboard-power-supply/)**: An adjustable breadboard power supply designed for stable voltage output.
 
 ## How to Use This Repository
-- Explore the **Certifications/** folder to view my study notes and coursework.
-- Check out the **Projects/** folder to see my simple projects and their source files.
-- Feel free to use this repository as a reference for your own learning!
+
+Each course folder contains the following:
+- **`README.md`**: A markdown file with my study notes summarizing key concepts, syntax, and examples from each course.
+- **`<n>_<description>.c`**: C source files containing solutions to the activities and exercises provided in the course. Each file is named descriptively (e.g., `1_writing_your_first_program.c`) to correspond with the activity it solves.
+
+
+## About the Specialization
+
+The **C Programming with Linux Specialization** is a comprehensive program that teaches the fundamentals of C programming and its application in Linux environments. It is designed for beginners and covers everything from basic syntax to advanced topics like pointers, memory management, and using Linux tools.
+
+- **Platform**: [Coursera](https://www.coursera.org)
+- **Institutions**: Dartmouth College & Institut Mines-Télécom
+- **Duration**: 7 courses (approximately 4-6 months to complete)
+
+
+## Contributing
+
+If you find any errors or have suggestions for improvement, feel free to open an issue or submit a pull request. Contributions are welcome!
+
 
 ## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+This repository is licensed under the MIT License.
 
 ---
 
-Stay Curious - Stay Hack! 😎
+Happy coding! 🚀
