@@ -2,8 +2,6 @@
 
 ![certificate](./certificate-course-2-language-foundations_page-0001.jpg)
 
-Here’s a well-structured **README.md** for **Course 2** based on your notes and the course objectives. It summarizes the key topics, concepts, and learning objectives in a clear and organized way:
-
 ---
 
 This course builds on the basics of C programming, focusing on **conditional statements**, **arrays**, **strings**, **loops**, and **sorting algorithms**. Below is a summary of the key topics and concepts covered in this course.
