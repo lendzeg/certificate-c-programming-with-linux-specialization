@@ -1,6 +1,6 @@
 # Course 1 - C Programming: Getting Started
 
-![certificate](certificate-course-1.png)
+![certificate](certificate-course-1-getting-started.png)
 
 
 This course introduces the basics of C programming, including working with characters, user input, decimals, division, remainders, and type conversion. Below is a summary of the key topics and examples covered.
