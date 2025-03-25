@@ -1,12 +1,15 @@
 # C Programming with Linux Specialization - Study Notes & Solutions
 
 ![Work in Progress](https://img.shields.io/badge/Status-work%20in%20progress-yellow)
+![GitHub last commit](https://img.shields.io/github/last-commit/lendzeg/certificate-c-programming-with-linux-specialization)
+<!-- 
 ![C Programming](https://img.shields.io/badge/Language-C-blue)
 ![Linux](https://img.shields.io/badge/OS-Linux-orange)
 ![Coursera](https://img.shields.io/badge/Platform-Coursera-success)
+-->
 
 Welcome to the **`certification-c-programming-linux-specialization`** repository!.  
-This repository contains my study notes, activity solutions, and projects from the **C Programming with Linux Specialization** offered by Dartmouth College and Institut Mines-Télécom on Coursera. The specialization covers the following topics:
+This repository contains my study notes, activity solutions, and projects from the **C Programming with Linux Specialization** offered by Dartmouth College and Institut Mines-Télécom on Coursera. The specialization covers the following courses:
 
 1. [**C Programming: Getting Started**](./course-1-getting-started/) ✅
 2. [**C Programming: Language Foundations**](./course-2-language-foundations/) ✅
@@ -44,4 +47,3 @@ This repository is licensed under the MIT License.
 
 ---
 
-Happy coding! 🚀
