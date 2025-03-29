@@ -33,3 +33,9 @@ int sum(int x, int y){ //values are copied into PARAMETERS x and y
     return compute;
 }
 ```
+
+- **Recursion** is when one function calls itself.
+- Is recursion replacing in some way a for loop?
+- All **recursive functions** must have a **stop condition**, or you will get an infinite loop, and **recursion condition**, to continue calling the function.  
+
+![alt text](./recursive%20functions%20parts.png)
