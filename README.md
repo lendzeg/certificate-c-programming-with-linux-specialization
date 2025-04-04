@@ -13,7 +13,7 @@ This repository contains my study notes, activity solutions, and projects from t
 
 1. [**C Programming: Getting Started**](./course-1-getting-started/) ✅ **`100%`**
 2. [**C Programming: Language Foundations**](./course-2-language-foundations/) ✅ **`100%`**
-3. [**C Programming: Modular Programming and Memory Management**](./course-3-modular-programming-memory-management/) 📌 **`51%`**
+3. [**C Programming: Modular Programming and Memory Management**](./course-3-modular-programming-memory-management/) 📌 **`65%`**
 4. **C Programming: Pointers and Memory Management**
 5. **C Programming: Advanced Data Types**
 6. **Linux Basics: The Command Line Interface**
