@@ -1,5 +1,10 @@
 # Course 3 - Modular Programming and Memory Management
 
+![certificate](./certificate-course-3-modular-programming-memory-management.jpg)
+
+---
+
+
 ## Week 1 - Functions and Recursion
 
 - All C programs must have the **main function**. It tells C where to start executing the code.

@@ -1,6 +1,6 @@
 # Course 2 - C Programming: Language Foundation
 
-![certificate](./certificate-course-2-language-foundations_page-0001.jpg)
+![certificate](./certificate-course-2-language-foundations.jpg)
 
 ---
 
